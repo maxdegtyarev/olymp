@@ -7,13 +7,13 @@ If you have an account in GH and you want to push a new code to this repository:
 3.  When i've answered to you, open your git bash (on Windows) or Terminal (on Linux);
 4.  Write this command:   git clone https://github.com/maxdegtyarev/olymp.git
 5.  Create a new directory with your task and write this:
-    git add .
-    git commit -m "Text of commit"
-    git push
-    
+    <br><code>git add .</code>
+    <br><code>git commit -m "Text of commit"</code>
+    <br><code>git push</code>
+    <br>
 6.  Done!
 7.  If we have modificated code in this Repo, enter this command:
-    git pull
+    <br><code>git pull</code>
 
 Any question? Write to my vk-profile:
     vk.com/maximdchannel
