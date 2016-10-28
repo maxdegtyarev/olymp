@@ -3,3 +3,8 @@
 /home/maximd/Рабочий стол/zadacha/zadacha/zadacha/bin/Debug/zadacha.exe
 /home/maximd/Рабочий стол/zadacha/zadacha/zadacha/obj/x86/Debug/zadacha.exe
 /home/maximd/Рабочий стол/zadacha/zadacha/zadacha/obj/x86/Debug/zadacha.exe.mdb
+/home/maximd/Рабочий стол/Maxodron/countinstring/zadacha/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/maximd/Рабочий стол/Maxodron/countinstring/zadacha/bin/Debug/zadacha.exe.mdb
+/home/maximd/Рабочий стол/Maxodron/countinstring/zadacha/bin/Debug/zadacha.exe
+/home/maximd/Рабочий стол/Maxodron/countinstring/zadacha/obj/x86/Debug/zadacha.exe
+/home/maximd/Рабочий стол/Maxodron/countinstring/zadacha/obj/x86/Debug/zadacha.exe.mdb

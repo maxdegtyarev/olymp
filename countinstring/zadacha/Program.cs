@@ -14,14 +14,13 @@ class app
 		*/
 		//Алгоритм неэффективен по памяти, но если тут динамически вводить, то норм)
 		string input = "hello";
+		string dline;
+		int leng = (input.ToCharArray()).Length;
+		int result = 0;
+
 		char[] text = "mynameismaximhelloimfinehello".ToCharArray();
 
-		//Длина входной строки
-		var leng = (input.ToCharArray()).Length;
-		int result = 0;
-		string dline;
-
-		for (int i = 0; i < text.Length - input.Length; i++) {
+		for (int i = 0; i < text.Length - (input.Length - 1); i++) {
 			//Создаём временную переменную для хранения временной строки
 
 			dline = string.Empty;
