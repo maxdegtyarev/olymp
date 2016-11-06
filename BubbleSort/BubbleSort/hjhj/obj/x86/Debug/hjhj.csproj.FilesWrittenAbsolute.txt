@@ -1,0 +1,5 @@
+/home/maximd/hjh/hjhj/hjhj/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/maximd/hjh/hjhj/hjhj/bin/Debug/hjhj.exe.mdb
+/home/maximd/hjh/hjhj/hjhj/bin/Debug/hjhj.exe
+/home/maximd/hjh/hjhj/hjhj/obj/x86/Debug/hjhj.exe
+/home/maximd/hjh/hjhj/hjhj/obj/x86/Debug/hjhj.exe.mdb
